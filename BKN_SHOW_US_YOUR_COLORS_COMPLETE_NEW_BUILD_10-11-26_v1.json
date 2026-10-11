@@ -1,0 +1,2800 @@
+{
+ "content": [
+  {
+   "id": "8a944e8",
+   "elType": "container",
+   "isInner": false,
+   "settings": {
+    "flex_direction": "column",
+    "flex_direction_mobile": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 22,
+     "column": "22",
+     "row": "22"
+    },
+    "flex_align_items": "center",
+    "flex_wrap": "nowrap",
+    "content_width": "boxed",
+    "boxed_width": {
+     "unit": "px",
+     "size": 820,
+     "sizes": []
+    },
+    "background_background": "classic",
+    "background_color": "#5E1071",
+    "padding": {
+     "unit": "px",
+     "top": "120",
+     "right": "24",
+     "bottom": "120",
+     "left": "24",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "72",
+     "right": "20",
+     "bottom": "72",
+     "left": "20",
+     "isLinked": false
+    }
+   },
+   "elements": [
+    {
+     "id": "127443d",
+     "elType": "widget",
+     "widgetType": "heading",
+     "settings": {
+      "title": "BKN IN COLOR COMMUNITY",
+      "header_size": "h6",
+      "align": "center",
+      "title_color": "#0AE6D7",
+      "typography_typography": "custom",
+      "typography_font_family": "Montserrat",
+      "typography_font_weight": "600",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 14,
+       "sizes": []
+      },
+      "typography_font_size_tablet": {
+       "unit": "px",
+       "size": 14,
+       "sizes": []
+      },
+      "typography_font_size_mobile": {
+       "unit": "px",
+       "size": 12,
+       "sizes": []
+      },
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.15,
+       "sizes": []
+      },
+      "typography_letter_spacing": {
+       "unit": "px",
+       "size": 4,
+       "sizes": []
+      },
+      "typography_letter_spacing_mobile": {
+       "unit": "px",
+       "size": 1.5,
+       "sizes": []
+      }
+     },
+     "elements": []
+    },
+    {
+     "id": "f881ac3",
+     "elType": "widget",
+     "widgetType": "heading",
+     "settings": {
+      "title": "SHOW US YOUR COLORS",
+      "header_size": "h1",
+      "align": "center",
+      "title_color": "#FFFFFF",
+      "typography_typography": "custom",
+      "typography_font_family": "Cormorant Garamond",
+      "typography_font_weight": "700",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 68,
+       "sizes": []
+      },
+      "typography_font_size_tablet": {
+       "unit": "px",
+       "size": 54,
+       "sizes": []
+      },
+      "typography_font_size_mobile": {
+       "unit": "px",
+       "size": 40,
+       "sizes": []
+      },
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.05,
+       "sizes": []
+      },
+      "typography_letter_spacing": {
+       "unit": "px",
+       "size": 2,
+       "sizes": []
+      },
+      "typography_letter_spacing_mobile": {
+       "unit": "px",
+       "size": 1.5,
+       "sizes": []
+      }
+     },
+     "elements": []
+    },
+    {
+     "id": "bf47a3e",
+     "elType": "widget",
+     "widgetType": "heading",
+     "settings": {
+      "title": "Your creativity deserves to be seen",
+      "header_size": "h2",
+      "align": "center",
+      "title_color": "#DCCC84",
+      "typography_typography": "custom",
+      "typography_font_family": "Cormorant Garamond",
+      "typography_font_weight": "500",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 30,
+       "sizes": []
+      },
+      "typography_font_size_tablet": {
+       "unit": "px",
+       "size": 28,
+       "sizes": []
+      },
+      "typography_font_size_mobile": {
+       "unit": "px",
+       "size": 24,
+       "sizes": []
+      },
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.15,
+       "sizes": []
+      },
+      "typography_font_style": "italic"
+     },
+     "elements": []
+    },
+    {
+     "id": "7e4bfd6",
+     "elType": "widget",
+     "widgetType": "text-editor",
+     "settings": {
+      "editor": "<p>You brought the pages to life. Now we'd love to see your masterpiece!</p><p>Share your finished BKN In Color artwork for an opportunity to be featured in our Community Gallery.</p>",
+      "align": "center",
+      "text_color": "#FFFFFF",
+      "typography_typography": "custom",
+      "typography_font_family": "Montserrat",
+      "typography_font_weight": "400",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 17,
+       "sizes": []
+      },
+      "typography_font_size_tablet": {
+       "unit": "px",
+       "size": 17,
+       "sizes": []
+      },
+      "typography_font_size_mobile": {
+       "unit": "px",
+       "size": 16,
+       "sizes": []
+      },
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.7,
+       "sizes": []
+      }
+     },
+     "elements": []
+    },
+    {
+     "id": "5cc58c1",
+     "elType": "widget",
+     "widgetType": "button",
+     "settings": {
+      "text": "SHARE YOUR ARTWORK",
+      "link": {
+       "url": "#artwork-submission",
+       "is_external": "",
+       "nofollow": "",
+       "custom_attributes": ""
+      },
+      "align": "center",
+      "align_mobile": "justify",
+      "background_color": "#D4AF37",
+      "button_text_color": "#370089",
+      "hover_color": "#370089",
+      "button_background_hover_color": "#DCCC84",
+      "border_radius": {
+       "unit": "px",
+       "top": "4",
+       "right": "4",
+       "bottom": "4",
+       "left": "4",
+       "isLinked": false
+      },
+      "text_padding": {
+       "unit": "px",
+       "top": "18",
+       "right": "40",
+       "bottom": "18",
+       "left": "40",
+       "isLinked": false
+      },
+      "text_padding_mobile": {
+       "unit": "px",
+       "top": "16",
+       "right": "20",
+       "bottom": "16",
+       "left": "20",
+       "isLinked": false
+      },
+      "typography_typography": "custom",
+      "typography_font_family": "Montserrat",
+      "typography_font_weight": "700",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 15,
+       "sizes": []
+      },
+      "typography_font_size_tablet": {
+       "unit": "px",
+       "size": 15,
+       "sizes": []
+      },
+      "typography_font_size_mobile": {
+       "unit": "px",
+       "size": 14,
+       "sizes": []
+      },
+      "typography_letter_spacing": {
+       "unit": "px",
+       "size": 2.5,
+       "sizes": []
+      },
+      "typography_letter_spacing_mobile": {
+       "unit": "px",
+       "size": 1.5,
+       "sizes": []
+      }
+     },
+     "elements": []
+    }
+   ]
+  },
+  {
+   "id": "f838074",
+   "elType": "container",
+   "isInner": false,
+   "settings": {
+    "flex_direction": "column",
+    "flex_direction_mobile": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 40,
+     "column": "40",
+     "row": "40"
+    },
+    "flex_align_items": "center",
+    "flex_wrap": "nowrap",
+    "content_width": "boxed",
+    "boxed_width": {
+     "unit": "px",
+     "size": 1140,
+     "sizes": []
+    },
+    "background_background": "classic",
+    "background_color": "#F8F4EC",
+    "padding": {
+     "unit": "px",
+     "top": "100",
+     "right": "24",
+     "bottom": "100",
+     "left": "24",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "64",
+     "right": "20",
+     "bottom": "64",
+     "left": "20",
+     "isLinked": false
+    }
+   },
+   "elements": [
+    {
+     "id": "37a4a08",
+     "elType": "widget",
+     "widgetType": "heading",
+     "settings": {
+      "title": "THREE SIMPLE STEPS",
+      "header_size": "h2",
+      "align": "center",
+      "title_color": "#5E1071",
+      "typography_typography": "custom",
+      "typography_font_family": "Cormorant Garamond",
+      "typography_font_weight": "700",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 48,
+       "sizes": []
+      },
+      "typography_font_size_tablet": {
+       "unit": "px",
+       "size": 40,
+       "sizes": []
+      },
+      "typography_font_size_mobile": {
+       "unit": "px",
+       "size": 32,
+       "sizes": []
+      },
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.15,
+       "sizes": []
+      },
+      "typography_letter_spacing": {
+       "unit": "px",
+       "size": 2,
+       "sizes": []
+      },
+      "typography_letter_spacing_mobile": {
+       "unit": "px",
+       "size": 1.5,
+       "sizes": []
+      }
+     },
+     "elements": []
+    },
+    {
+     "id": "62e5d41",
+     "elType": "container",
+     "isInner": true,
+     "settings": {
+      "flex_direction": "row",
+      "flex_direction_mobile": "column",
+      "flex_gap": {
+       "unit": "px",
+       "size": 24,
+       "column": "24",
+       "row": "24"
+      },
+      "flex_align_items": "stretch",
+      "flex_wrap": "nowrap",
+      "flex_direction_tablet": "row",
+      "flex_justify_content": "center",
+      "content_width": "full",
+      "width": {
+       "unit": "%",
+       "size": 100,
+       "sizes": []
+      }
+     },
+     "elements": [
+      {
+       "id": "45de585",
+       "elType": "container",
+       "isInner": true,
+       "settings": {
+        "flex_direction": "column",
+        "flex_direction_mobile": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 12,
+         "column": "12",
+         "row": "12"
+        },
+        "flex_align_items": "center",
+        "flex_wrap": "nowrap",
+        "content_width": "full",
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "padding": {
+         "unit": "px",
+         "top": "40",
+         "right": "28",
+         "bottom": "40",
+         "left": "28",
+         "isLinked": false
+        },
+        "padding_mobile": {
+         "unit": "px",
+         "top": "32",
+         "right": "22",
+         "bottom": "32",
+         "left": "22",
+         "isLinked": false
+        },
+        "width": {
+         "unit": "%",
+         "size": 32,
+         "sizes": []
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 32,
+         "sizes": []
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        },
+        "border_border": "solid",
+        "border_color": "#D4AF37",
+        "border_width": {
+         "unit": "px",
+         "top": "4",
+         "right": "1",
+         "bottom": "1",
+         "left": "1",
+         "isLinked": false
+        },
+        "border_radius": {
+         "unit": "px",
+         "top": "6",
+         "right": "6",
+         "bottom": "6",
+         "left": "6",
+         "isLinked": false
+        }
+       },
+       "elements": [
+        {
+         "id": "fde7178",
+         "elType": "widget",
+         "widgetType": "heading",
+         "settings": {
+          "title": "01",
+          "header_size": "h4",
+          "align": "center",
+          "title_color": "#D4AF37",
+          "typography_typography": "custom",
+          "typography_font_family": "Cormorant Garamond",
+          "typography_font_weight": "700",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 40,
+           "sizes": []
+          },
+          "typography_font_size_tablet": {
+           "unit": "px",
+           "size": 36,
+           "sizes": []
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 36,
+           "sizes": []
+          },
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.15,
+           "sizes": []
+          }
+         },
+         "elements": []
+        },
+        {
+         "id": "2956c89",
+         "elType": "widget",
+         "widgetType": "heading",
+         "settings": {
+          "title": "CREATE",
+          "header_size": "h3",
+          "align": "center",
+          "title_color": "#370089",
+          "typography_typography": "custom",
+          "typography_font_family": "Cormorant Garamond",
+          "typography_font_weight": "700",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 28,
+           "sizes": []
+          },
+          "typography_font_size_tablet": {
+           "unit": "px",
+           "size": 26,
+           "sizes": []
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 26,
+           "sizes": []
+          },
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.15,
+           "sizes": []
+          },
+          "typography_letter_spacing": {
+           "unit": "px",
+           "size": 3,
+           "sizes": []
+          },
+          "typography_letter_spacing_mobile": {
+           "unit": "px",
+           "size": 1.5,
+           "sizes": []
+          }
+         },
+         "elements": []
+        },
+        {
+         "id": "fb93128",
+         "elType": "widget",
+         "widgetType": "text-editor",
+         "settings": {
+          "editor": "<p>Color your favorite BKN In Color page.</p>",
+          "align": "center",
+          "text_color": "#3A3A3A",
+          "typography_typography": "custom",
+          "typography_font_family": "Montserrat",
+          "typography_font_weight": "400",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 16,
+           "sizes": []
+          },
+          "typography_font_size_tablet": {
+           "unit": "px",
+           "size": 16,
+           "sizes": []
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16,
+           "sizes": []
+          },
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.7,
+           "sizes": []
+          }
+         },
+         "elements": []
+        }
+       ]
+      },
+      {
+       "id": "e28b220",
+       "elType": "container",
+       "isInner": true,
+       "settings": {
+        "flex_direction": "column",
+        "flex_direction_mobile": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 12,
+         "column": "12",
+         "row": "12"
+        },
+        "flex_align_items": "center",
+        "flex_wrap": "nowrap",
+        "content_width": "full",
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "padding": {
+         "unit": "px",
+         "top": "40",
+         "right": "28",
+         "bottom": "40",
+         "left": "28",
+         "isLinked": false
+        },
+        "padding_mobile": {
+         "unit": "px",
+         "top": "32",
+         "right": "22",
+         "bottom": "32",
+         "left": "22",
+         "isLinked": false
+        },
+        "width": {
+         "unit": "%",
+         "size": 32,
+         "sizes": []
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 32,
+         "sizes": []
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        },
+        "border_border": "solid",
+        "border_color": "#D4AF37",
+        "border_width": {
+         "unit": "px",
+         "top": "4",
+         "right": "1",
+         "bottom": "1",
+         "left": "1",
+         "isLinked": false
+        },
+        "border_radius": {
+         "unit": "px",
+         "top": "6",
+         "right": "6",
+         "bottom": "6",
+         "left": "6",
+         "isLinked": false
+        }
+       },
+       "elements": [
+        {
+         "id": "4fb538e",
+         "elType": "widget",
+         "widgetType": "heading",
+         "settings": {
+          "title": "02",
+          "header_size": "h4",
+          "align": "center",
+          "title_color": "#D4AF37",
+          "typography_typography": "custom",
+          "typography_font_family": "Cormorant Garamond",
+          "typography_font_weight": "700",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 40,
+           "sizes": []
+          },
+          "typography_font_size_tablet": {
+           "unit": "px",
+           "size": 36,
+           "sizes": []
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 36,
+           "sizes": []
+          },
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.15,
+           "sizes": []
+          }
+         },
+         "elements": []
+        },
+        {
+         "id": "5028808",
+         "elType": "widget",
+         "widgetType": "heading",
+         "settings": {
+          "title": "CAPTURE",
+          "header_size": "h3",
+          "align": "center",
+          "title_color": "#370089",
+          "typography_typography": "custom",
+          "typography_font_family": "Cormorant Garamond",
+          "typography_font_weight": "700",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 28,
+           "sizes": []
+          },
+          "typography_font_size_tablet": {
+           "unit": "px",
+           "size": 26,
+           "sizes": []
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 26,
+           "sizes": []
+          },
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.15,
+           "sizes": []
+          },
+          "typography_letter_spacing": {
+           "unit": "px",
+           "size": 3,
+           "sizes": []
+          },
+          "typography_letter_spacing_mobile": {
+           "unit": "px",
+           "size": 1.5,
+           "sizes": []
+          }
+         },
+         "elements": []
+        },
+        {
+         "id": "7a7a6e0",
+         "elType": "widget",
+         "widgetType": "text-editor",
+         "settings": {
+          "editor": "<p>Take a clear photo or scan of your finished artwork.</p>",
+          "align": "center",
+          "text_color": "#3A3A3A",
+          "typography_typography": "custom",
+          "typography_font_family": "Montserrat",
+          "typography_font_weight": "400",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 16,
+           "sizes": []
+          },
+          "typography_font_size_tablet": {
+           "unit": "px",
+           "size": 16,
+           "sizes": []
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16,
+           "sizes": []
+          },
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.7,
+           "sizes": []
+          }
+         },
+         "elements": []
+        }
+       ]
+      },
+      {
+       "id": "85f1d72",
+       "elType": "container",
+       "isInner": true,
+       "settings": {
+        "flex_direction": "column",
+        "flex_direction_mobile": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 12,
+         "column": "12",
+         "row": "12"
+        },
+        "flex_align_items": "center",
+        "flex_wrap": "nowrap",
+        "content_width": "full",
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "padding": {
+         "unit": "px",
+         "top": "40",
+         "right": "28",
+         "bottom": "40",
+         "left": "28",
+         "isLinked": false
+        },
+        "padding_mobile": {
+         "unit": "px",
+         "top": "32",
+         "right": "22",
+         "bottom": "32",
+         "left": "22",
+         "isLinked": false
+        },
+        "width": {
+         "unit": "%",
+         "size": 32,
+         "sizes": []
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 32,
+         "sizes": []
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        },
+        "border_border": "solid",
+        "border_color": "#D4AF37",
+        "border_width": {
+         "unit": "px",
+         "top": "4",
+         "right": "1",
+         "bottom": "1",
+         "left": "1",
+         "isLinked": false
+        },
+        "border_radius": {
+         "unit": "px",
+         "top": "6",
+         "right": "6",
+         "bottom": "6",
+         "left": "6",
+         "isLinked": false
+        }
+       },
+       "elements": [
+        {
+         "id": "469a7de",
+         "elType": "widget",
+         "widgetType": "heading",
+         "settings": {
+          "title": "03",
+          "header_size": "h4",
+          "align": "center",
+          "title_color": "#D4AF37",
+          "typography_typography": "custom",
+          "typography_font_family": "Cormorant Garamond",
+          "typography_font_weight": "700",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 40,
+           "sizes": []
+          },
+          "typography_font_size_tablet": {
+           "unit": "px",
+           "size": 36,
+           "sizes": []
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 36,
+           "sizes": []
+          },
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.15,
+           "sizes": []
+          }
+         },
+         "elements": []
+        },
+        {
+         "id": "8469a2d",
+         "elType": "widget",
+         "widgetType": "heading",
+         "settings": {
+          "title": "SUBMIT",
+          "header_size": "h3",
+          "align": "center",
+          "title_color": "#370089",
+          "typography_typography": "custom",
+          "typography_font_family": "Cormorant Garamond",
+          "typography_font_weight": "700",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 28,
+           "sizes": []
+          },
+          "typography_font_size_tablet": {
+           "unit": "px",
+           "size": 26,
+           "sizes": []
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 26,
+           "sizes": []
+          },
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.15,
+           "sizes": []
+          },
+          "typography_letter_spacing": {
+           "unit": "px",
+           "size": 3,
+           "sizes": []
+          },
+          "typography_letter_spacing_mobile": {
+           "unit": "px",
+           "size": 1.5,
+           "sizes": []
+          }
+         },
+         "elements": []
+        },
+        {
+         "id": "af96600",
+         "elType": "widget",
+         "widgetType": "text-editor",
+         "settings": {
+          "editor": "<p>Upload your masterpiece using the form below.</p>",
+          "align": "center",
+          "text_color": "#3A3A3A",
+          "typography_typography": "custom",
+          "typography_font_family": "Montserrat",
+          "typography_font_weight": "400",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 16,
+           "sizes": []
+          },
+          "typography_font_size_tablet": {
+           "unit": "px",
+           "size": 16,
+           "sizes": []
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16,
+           "sizes": []
+          },
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.7,
+           "sizes": []
+          }
+         },
+         "elements": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c6eb493",
+   "elType": "container",
+   "isInner": false,
+   "settings": {
+    "flex_direction": "column",
+    "flex_direction_mobile": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 24,
+     "column": "24",
+     "row": "24"
+    },
+    "flex_align_items": "center",
+    "flex_wrap": "nowrap",
+    "content_width": "boxed",
+    "boxed_width": {
+     "unit": "px",
+     "size": 780,
+     "sizes": []
+    },
+    "background_background": "classic",
+    "background_color": "#FFFFFF",
+    "padding": {
+     "unit": "px",
+     "top": "100",
+     "right": "24",
+     "bottom": "100",
+     "left": "24",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "64",
+     "right": "20",
+     "bottom": "64",
+     "left": "20",
+     "isLinked": false
+    }
+   },
+   "elements": [
+    {
+     "id": "7cda5e7",
+     "elType": "widget",
+     "widgetType": "heading",
+     "settings": {
+      "title": "SHARE YOUR CREATIVITY WITH BKN! 🎨",
+      "header_size": "h2",
+      "align": "center",
+      "title_color": "#5E1071",
+      "typography_typography": "custom",
+      "typography_font_family": "Cormorant Garamond",
+      "typography_font_weight": "700",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 46,
+       "sizes": []
+      },
+      "typography_font_size_tablet": {
+       "unit": "px",
+       "size": 40,
+       "sizes": []
+      },
+      "typography_font_size_mobile": {
+       "unit": "px",
+       "size": 30,
+       "sizes": []
+      },
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.15,
+       "sizes": []
+      },
+      "typography_letter_spacing": {
+       "unit": "px",
+       "size": 1,
+       "sizes": []
+      },
+      "typography_letter_spacing_mobile": {
+       "unit": "px",
+       "size": 1,
+       "sizes": []
+      }
+     },
+     "elements": []
+    },
+    {
+     "id": "2738209",
+     "elType": "widget",
+     "widgetType": "text-editor",
+     "settings": {
+      "editor": "<p>We'd love to see your BKN In Color creations!</p><p>Join our creative community! Share your finished artwork on your favorite social media platform, tag BKN, and use <strong>#BKNInColor</strong> so we can discover and celebrate your creativity.</p>",
+      "align": "center",
+      "text_color": "#3A3A3A",
+      "typography_typography": "custom",
+      "typography_font_family": "Montserrat",
+      "typography_font_weight": "400",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 17,
+       "sizes": []
+      },
+      "typography_font_size_tablet": {
+       "unit": "px",
+       "size": 17,
+       "sizes": []
+      },
+      "typography_font_size_mobile": {
+       "unit": "px",
+       "size": 16,
+       "sizes": []
+      },
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.7,
+       "sizes": []
+      }
+     },
+     "elements": []
+    },
+    {
+     "id": "e717ab6",
+     "elType": "widget",
+     "widgetType": "heading",
+     "settings": {
+      "title": "FIND AND TAG US",
+      "header_size": "h3",
+      "align": "center",
+      "title_color": "#D4AF37",
+      "typography_typography": "custom",
+      "typography_font_family": "Montserrat",
+      "typography_font_weight": "700",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 22,
+       "sizes": []
+      },
+      "typography_font_size_tablet": {
+       "unit": "px",
+       "size": 22,
+       "sizes": []
+      },
+      "typography_font_size_mobile": {
+       "unit": "px",
+       "size": 20,
+       "sizes": []
+      },
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.15,
+       "sizes": []
+      },
+      "typography_letter_spacing": {
+       "unit": "px",
+       "size": 3,
+       "sizes": []
+      },
+      "typography_letter_spacing_mobile": {
+       "unit": "px",
+       "size": 1.5,
+       "sizes": []
+      }
+     },
+     "elements": []
+    },
+    {
+     "id": "ae2cde8",
+     "elType": "container",
+     "isInner": true,
+     "settings": {
+      "flex_direction": "column",
+      "flex_direction_mobile": "column",
+      "flex_gap": {
+       "unit": "px",
+       "size": 12,
+       "column": "12",
+       "row": "12"
+      },
+      "flex_align_items": "stretch",
+      "flex_wrap": "nowrap",
+      "content_width": "full",
+      "width": {
+       "unit": "%",
+       "size": 100,
+       "sizes": []
+      }
+     },
+     "elements": [
+      {
+       "id": "f1e2a29",
+       "elType": "container",
+       "isInner": true,
+       "settings": {
+        "flex_direction": "column",
+        "flex_direction_mobile": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 20,
+         "column": "20",
+         "row": "20"
+        },
+        "flex_align_items": "flex-start",
+        "flex_wrap": "nowrap",
+        "content_width": "full",
+        "background_background": "classic",
+        "background_color": "#F8F4EC",
+        "padding": {
+         "unit": "px",
+         "top": "18",
+         "right": "24",
+         "bottom": "18",
+         "left": "24",
+         "isLinked": false
+        },
+        "padding_mobile": {
+         "unit": "px",
+         "top": "16",
+         "right": "16",
+         "bottom": "16",
+         "left": "16",
+         "isLinked": false
+        },
+        "width": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        },
+        "border_border": "solid",
+        "border_color": "#D4AF37",
+        "border_width": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "4",
+         "isLinked": false
+        },
+        "border_radius": {
+         "unit": "px",
+         "top": "4",
+         "right": "4",
+         "bottom": "4",
+         "left": "4",
+         "isLinked": false
+        }
+       },
+       "elements": [
+        {
+         "id": "723f965",
+         "elType": "widget",
+         "widgetType": "heading",
+         "settings": {
+          "title": "Instagram: @bknetwork_official",
+          "header_size": "h4",
+          "align": "left",
+          "title_color": "#5E1071",
+          "typography_typography": "custom",
+          "typography_font_family": "Montserrat",
+          "typography_font_weight": "600",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 18,
+           "sizes": []
+          },
+          "typography_font_size_tablet": {
+           "unit": "px",
+           "size": 18,
+           "sizes": []
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16,
+           "sizes": []
+          },
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.4,
+           "sizes": []
+          },
+          "link": {
+           "url": "https://www.instagram.com/bknetwork_official/",
+           "is_external": "on",
+           "nofollow": "",
+           "custom_attributes": ""
+          }
+         },
+         "elements": []
+        }
+       ]
+      },
+      {
+       "id": "f5a7eef",
+       "elType": "container",
+       "isInner": true,
+       "settings": {
+        "flex_direction": "column",
+        "flex_direction_mobile": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 20,
+         "column": "20",
+         "row": "20"
+        },
+        "flex_align_items": "flex-start",
+        "flex_wrap": "nowrap",
+        "content_width": "full",
+        "background_background": "classic",
+        "background_color": "#F8F4EC",
+        "padding": {
+         "unit": "px",
+         "top": "18",
+         "right": "24",
+         "bottom": "18",
+         "left": "24",
+         "isLinked": false
+        },
+        "padding_mobile": {
+         "unit": "px",
+         "top": "16",
+         "right": "16",
+         "bottom": "16",
+         "left": "16",
+         "isLinked": false
+        },
+        "width": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        },
+        "border_border": "solid",
+        "border_color": "#D4AF37",
+        "border_width": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "4",
+         "isLinked": false
+        },
+        "border_radius": {
+         "unit": "px",
+         "top": "4",
+         "right": "4",
+         "bottom": "4",
+         "left": "4",
+         "isLinked": false
+        }
+       },
+       "elements": [
+        {
+         "id": "3eac750",
+         "elType": "widget",
+         "widgetType": "heading",
+         "settings": {
+          "title": "YouTube: @Official_BKNetwork",
+          "header_size": "h4",
+          "align": "left",
+          "title_color": "#5E1071",
+          "typography_typography": "custom",
+          "typography_font_family": "Montserrat",
+          "typography_font_weight": "600",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 18,
+           "sizes": []
+          },
+          "typography_font_size_tablet": {
+           "unit": "px",
+           "size": 18,
+           "sizes": []
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16,
+           "sizes": []
+          },
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.4,
+           "sizes": []
+          },
+          "link": {
+           "url": "https://www.youtube.com/@Official_BKNetwork",
+           "is_external": "on",
+           "nofollow": "",
+           "custom_attributes": ""
+          }
+         },
+         "elements": []
+        }
+       ]
+      },
+      {
+       "id": "ba5e082",
+       "elType": "container",
+       "isInner": true,
+       "settings": {
+        "flex_direction": "column",
+        "flex_direction_mobile": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 20,
+         "column": "20",
+         "row": "20"
+        },
+        "flex_align_items": "flex-start",
+        "flex_wrap": "nowrap",
+        "content_width": "full",
+        "background_background": "classic",
+        "background_color": "#F8F4EC",
+        "padding": {
+         "unit": "px",
+         "top": "18",
+         "right": "24",
+         "bottom": "18",
+         "left": "24",
+         "isLinked": false
+        },
+        "padding_mobile": {
+         "unit": "px",
+         "top": "16",
+         "right": "16",
+         "bottom": "16",
+         "left": "16",
+         "isLinked": false
+        },
+        "width": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        },
+        "border_border": "solid",
+        "border_color": "#D4AF37",
+        "border_width": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "4",
+         "isLinked": false
+        },
+        "border_radius": {
+         "unit": "px",
+         "top": "4",
+         "right": "4",
+         "bottom": "4",
+         "left": "4",
+         "isLinked": false
+        }
+       },
+       "elements": [
+        {
+         "id": "583b143",
+         "elType": "widget",
+         "widgetType": "heading",
+         "settings": {
+          "title": "TikTok: @bknetwork_official",
+          "header_size": "h4",
+          "align": "left",
+          "title_color": "#5E1071",
+          "typography_typography": "custom",
+          "typography_font_family": "Montserrat",
+          "typography_font_weight": "600",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 18,
+           "sizes": []
+          },
+          "typography_font_size_tablet": {
+           "unit": "px",
+           "size": 18,
+           "sizes": []
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16,
+           "sizes": []
+          },
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.4,
+           "sizes": []
+          },
+          "link": {
+           "url": "https://www.tiktok.com/@bknetwork_official",
+           "is_external": "on",
+           "nofollow": "",
+           "custom_attributes": ""
+          }
+         },
+         "elements": []
+        }
+       ]
+      },
+      {
+       "id": "745af86",
+       "elType": "container",
+       "isInner": true,
+       "settings": {
+        "flex_direction": "column",
+        "flex_direction_mobile": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 20,
+         "column": "20",
+         "row": "20"
+        },
+        "flex_align_items": "flex-start",
+        "flex_wrap": "nowrap",
+        "content_width": "full",
+        "background_background": "classic",
+        "background_color": "#F8F4EC",
+        "padding": {
+         "unit": "px",
+         "top": "18",
+         "right": "24",
+         "bottom": "18",
+         "left": "24",
+         "isLinked": false
+        },
+        "padding_mobile": {
+         "unit": "px",
+         "top": "16",
+         "right": "16",
+         "bottom": "16",
+         "left": "16",
+         "isLinked": false
+        },
+        "width": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        },
+        "border_border": "solid",
+        "border_color": "#D4AF37",
+        "border_width": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "4",
+         "isLinked": false
+        },
+        "border_radius": {
+         "unit": "px",
+         "top": "4",
+         "right": "4",
+         "bottom": "4",
+         "left": "4",
+         "isLinked": false
+        }
+       },
+       "elements": [
+        {
+         "id": "3882671",
+         "elType": "widget",
+         "widgetType": "heading",
+         "settings": {
+          "title": "X (Twitter): @BenisonKingdom",
+          "header_size": "h4",
+          "align": "left",
+          "title_color": "#5E1071",
+          "typography_typography": "custom",
+          "typography_font_family": "Montserrat",
+          "typography_font_weight": "600",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 18,
+           "sizes": []
+          },
+          "typography_font_size_tablet": {
+           "unit": "px",
+           "size": 18,
+           "sizes": []
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16,
+           "sizes": []
+          },
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.4,
+           "sizes": []
+          },
+          "link": {
+           "url": "https://x.com/BenisonKingdom",
+           "is_external": "on",
+           "nofollow": "",
+           "custom_attributes": ""
+          }
+         },
+         "elements": []
+        }
+       ]
+      },
+      {
+       "id": "89b268f",
+       "elType": "container",
+       "isInner": true,
+       "settings": {
+        "flex_direction": "column",
+        "flex_direction_mobile": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 20,
+         "column": "20",
+         "row": "20"
+        },
+        "flex_align_items": "flex-start",
+        "flex_wrap": "nowrap",
+        "content_width": "full",
+        "background_background": "classic",
+        "background_color": "#F8F4EC",
+        "padding": {
+         "unit": "px",
+         "top": "18",
+         "right": "24",
+         "bottom": "18",
+         "left": "24",
+         "isLinked": false
+        },
+        "padding_mobile": {
+         "unit": "px",
+         "top": "16",
+         "right": "16",
+         "bottom": "16",
+         "left": "16",
+         "isLinked": false
+        },
+        "width": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        },
+        "border_border": "solid",
+        "border_color": "#D4AF37",
+        "border_width": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "4",
+         "isLinked": false
+        },
+        "border_radius": {
+         "unit": "px",
+         "top": "4",
+         "right": "4",
+         "bottom": "4",
+         "left": "4",
+         "isLinked": false
+        }
+       },
+       "elements": [
+        {
+         "id": "3776763",
+         "elType": "widget",
+         "widgetType": "heading",
+         "settings": {
+          "title": "Facebook: Benison Kingdom Network",
+          "header_size": "h4",
+          "align": "left",
+          "title_color": "#5E1071",
+          "typography_typography": "custom",
+          "typography_font_family": "Montserrat",
+          "typography_font_weight": "600",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 18,
+           "sizes": []
+          },
+          "typography_font_size_tablet": {
+           "unit": "px",
+           "size": 18,
+           "sizes": []
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16,
+           "sizes": []
+          },
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.4,
+           "sizes": []
+          },
+          "link": {
+           "url": "https://www.facebook.com/benisonkingdomnetwork",
+           "is_external": "on",
+           "nofollow": "",
+           "custom_attributes": ""
+          }
+         },
+         "elements": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "276e259",
+     "elType": "widget",
+     "widgetType": "text-editor",
+     "settings": {
+      "editor": "<p>Want another opportunity to showcase your masterpiece? Submit your artwork through our <strong>Show Your Work Gallery</strong> for consideration.</p><p><strong>Please note:</strong> Artwork featured on BKN's website or social media is selected at BKN's discretion. Tagging, following, or submitting artwork does not guarantee a feature.</p><p><strong>Your creativity deserves to be seen!</strong> 💜</p>",
+      "align": "center",
+      "text_color": "#3A3A3A",
+      "typography_typography": "custom",
+      "typography_font_family": "Montserrat",
+      "typography_font_weight": "400",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 17,
+       "sizes": []
+      },
+      "typography_font_size_tablet": {
+       "unit": "px",
+       "size": 17,
+       "sizes": []
+      },
+      "typography_font_size_mobile": {
+       "unit": "px",
+       "size": 16,
+       "sizes": []
+      },
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.7,
+       "sizes": []
+      }
+     },
+     "elements": []
+    }
+   ]
+  },
+  {
+   "id": "8635d35",
+   "elType": "container",
+   "isInner": false,
+   "settings": {
+    "flex_direction": "column",
+    "flex_direction_mobile": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 24,
+     "column": "24",
+     "row": "24"
+    },
+    "flex_align_items": "center",
+    "flex_wrap": "nowrap",
+    "content_width": "boxed",
+    "boxed_width": {
+     "unit": "px",
+     "size": 820,
+     "sizes": []
+    },
+    "background_background": "classic",
+    "background_color": "#370089",
+    "padding": {
+     "unit": "px",
+     "top": "100",
+     "right": "24",
+     "bottom": "100",
+     "left": "24",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "64",
+     "right": "20",
+     "bottom": "64",
+     "left": "20",
+     "isLinked": false
+    },
+    "_element_id": "artwork-submission"
+   },
+   "elements": [
+    {
+     "id": "790fd0b",
+     "elType": "widget",
+     "widgetType": "heading",
+     "settings": {
+      "title": "SHARE YOUR MASTERPIECE",
+      "header_size": "h2",
+      "align": "center",
+      "title_color": "#FFFFFF",
+      "typography_typography": "custom",
+      "typography_font_family": "Cormorant Garamond",
+      "typography_font_weight": "700",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 48,
+       "sizes": []
+      },
+      "typography_font_size_tablet": {
+       "unit": "px",
+       "size": 40,
+       "sizes": []
+      },
+      "typography_font_size_mobile": {
+       "unit": "px",
+       "size": 32,
+       "sizes": []
+      },
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.15,
+       "sizes": []
+      },
+      "typography_letter_spacing": {
+       "unit": "px",
+       "size": 2,
+       "sizes": []
+      },
+      "typography_letter_spacing_mobile": {
+       "unit": "px",
+       "size": 1.5,
+       "sizes": []
+      }
+     },
+     "elements": []
+    },
+    {
+     "id": "690f7ab",
+     "elType": "widget",
+     "widgetType": "text-editor",
+     "settings": {
+      "editor": "<p>Adult artists may submit their own artwork. Children's artwork must be submitted by a parent or legal guardian.</p>",
+      "align": "center",
+      "text_color": "#FFFFFF",
+      "typography_typography": "custom",
+      "typography_font_family": "Montserrat",
+      "typography_font_weight": "400",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 17,
+       "sizes": []
+      },
+      "typography_font_size_tablet": {
+       "unit": "px",
+       "size": 17,
+       "sizes": []
+      },
+      "typography_font_size_mobile": {
+       "unit": "px",
+       "size": 16,
+       "sizes": []
+      },
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.7,
+       "sizes": []
+      }
+     },
+     "elements": []
+    },
+    {
+     "id": "ff792ce",
+     "elType": "widget",
+     "widgetType": "text-editor",
+     "settings": {
+      "editor": "<p>Parents and legal guardians are welcome to submit their children's completed artwork. Please upload artwork only, without photographs of children or identifying information. All submissions are reviewed before possible publication.</p>",
+      "align": "center",
+      "text_color": "#DCCC84",
+      "typography_typography": "custom",
+      "typography_font_family": "Montserrat",
+      "typography_font_weight": "400",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 15,
+       "sizes": []
+      },
+      "typography_font_size_tablet": {
+       "unit": "px",
+       "size": 15,
+       "sizes": []
+      },
+      "typography_font_size_mobile": {
+       "unit": "px",
+       "size": 14,
+       "sizes": []
+      },
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.7,
+       "sizes": []
+      }
+     },
+     "elements": []
+    },
+    {
+     "id": "81147eb",
+     "elType": "container",
+     "isInner": true,
+     "settings": {
+      "flex_direction": "column",
+      "flex_direction_mobile": "column",
+      "flex_gap": {
+       "unit": "px",
+       "size": 20,
+       "column": "20",
+       "row": "20"
+      },
+      "flex_align_items": "stretch",
+      "flex_wrap": "nowrap",
+      "content_width": "full",
+      "background_background": "classic",
+      "background_color": "#FFFFFF",
+      "padding": {
+       "unit": "px",
+       "top": "40",
+       "right": "36",
+       "bottom": "40",
+       "left": "36",
+       "isLinked": false
+      },
+      "padding_mobile": {
+       "unit": "px",
+       "top": "24",
+       "right": "16",
+       "bottom": "24",
+       "left": "16",
+       "isLinked": false
+      },
+      "width": {
+       "unit": "%",
+       "size": 100,
+       "sizes": []
+      },
+      "border_border": "solid",
+      "border_color": "#D4AF37",
+      "border_width": {
+       "unit": "px",
+       "top": "2",
+       "right": "2",
+       "bottom": "2",
+       "left": "2",
+       "isLinked": false
+      },
+      "border_radius": {
+       "unit": "px",
+       "top": "8",
+       "right": "8",
+       "bottom": "8",
+       "left": "8",
+       "isLinked": false
+      }
+     },
+     "elements": [
+      {
+       "id": "97b51bf",
+       "elType": "widget",
+       "widgetType": "formidable",
+       "settings": {
+        "form_id": "",
+        "title": "",
+        "description": ""
+       },
+       "elements": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "20d082a",
+   "elType": "container",
+   "isInner": false,
+   "settings": {
+    "flex_direction": "column",
+    "flex_direction_mobile": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 20,
+     "column": "20",
+     "row": "20"
+    },
+    "flex_align_items": "center",
+    "flex_wrap": "nowrap",
+    "content_width": "boxed",
+    "boxed_width": {
+     "unit": "px",
+     "size": 1140,
+     "sizes": []
+    },
+    "background_background": "classic",
+    "background_color": "#F8F4EC",
+    "padding": {
+     "unit": "px",
+     "top": "100",
+     "right": "24",
+     "bottom": "100",
+     "left": "24",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "64",
+     "right": "20",
+     "bottom": "64",
+     "left": "20",
+     "isLinked": false
+    }
+   },
+   "elements": [
+    {
+     "id": "a24b08c",
+     "elType": "widget",
+     "widgetType": "heading",
+     "settings": {
+      "title": "THE COLORS OF OUR COMMUNITY",
+      "header_size": "h2",
+      "align": "center",
+      "title_color": "#5E1071",
+      "typography_typography": "custom",
+      "typography_font_family": "Cormorant Garamond",
+      "typography_font_weight": "700",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 48,
+       "sizes": []
+      },
+      "typography_font_size_tablet": {
+       "unit": "px",
+       "size": 40,
+       "sizes": []
+      },
+      "typography_font_size_mobile": {
+       "unit": "px",
+       "size": 32,
+       "sizes": []
+      },
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.15,
+       "sizes": []
+      },
+      "typography_letter_spacing": {
+       "unit": "px",
+       "size": 2,
+       "sizes": []
+      },
+      "typography_letter_spacing_mobile": {
+       "unit": "px",
+       "size": 1.5,
+       "sizes": []
+      }
+     },
+     "elements": []
+    },
+    {
+     "id": "9b80cdf",
+     "elType": "widget",
+     "widgetType": "heading",
+     "settings": {
+      "title": "Featured Creations",
+      "header_size": "h3",
+      "align": "center",
+      "title_color": "#D4AF37",
+      "typography_typography": "custom",
+      "typography_font_family": "Cormorant Garamond",
+      "typography_font_weight": "500",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 28,
+       "sizes": []
+      },
+      "typography_font_size_tablet": {
+       "unit": "px",
+       "size": 26,
+       "sizes": []
+      },
+      "typography_font_size_mobile": {
+       "unit": "px",
+       "size": 24,
+       "sizes": []
+      },
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.15,
+       "sizes": []
+      },
+      "typography_font_style": "italic"
+     },
+     "elements": []
+    },
+    {
+     "id": "d883ba6",
+     "elType": "widget",
+     "widgetType": "text-editor",
+     "settings": {
+      "editor": "<p>Take a look at the creativity our BKN In Color community has shared. Each featured masterpiece was selected by BKN.</p>",
+      "align": "center",
+      "text_color": "#3A3A3A",
+      "typography_typography": "custom",
+      "typography_font_family": "Montserrat",
+      "typography_font_weight": "400",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 17,
+       "sizes": []
+      },
+      "typography_font_size_tablet": {
+       "unit": "px",
+       "size": 17,
+       "sizes": []
+      },
+      "typography_font_size_mobile": {
+       "unit": "px",
+       "size": 16,
+       "sizes": []
+      },
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.7,
+       "sizes": []
+      }
+     },
+     "elements": []
+    },
+    {
+     "id": "c970b6d",
+     "elType": "container",
+     "isInner": true,
+     "settings": {
+      "flex_direction": "row",
+      "flex_direction_mobile": "column",
+      "flex_gap": {
+       "unit": "px",
+       "size": 24,
+       "column": "24",
+       "row": "24"
+      },
+      "flex_align_items": "stretch",
+      "flex_wrap": "nowrap",
+      "flex_direction_tablet": "row",
+      "flex_justify_content": "center",
+      "content_width": "full",
+      "width": {
+       "unit": "%",
+       "size": 100,
+       "sizes": []
+      }
+     },
+     "elements": [
+      {
+       "id": "20314b5",
+       "elType": "container",
+       "isInner": true,
+       "settings": {
+        "flex_direction": "column",
+        "flex_direction_mobile": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 14,
+         "column": "14",
+         "row": "14"
+        },
+        "flex_align_items": "stretch",
+        "flex_wrap": "nowrap",
+        "content_width": "full",
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "padding": {
+         "unit": "px",
+         "top": "16",
+         "right": "16",
+         "bottom": "24",
+         "left": "16",
+         "isLinked": false
+        },
+        "width": {
+         "unit": "%",
+         "size": 32,
+         "sizes": []
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 32,
+         "sizes": []
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        },
+        "border_border": "solid",
+        "border_color": "#D4AF37",
+        "border_width": {
+         "unit": "px",
+         "top": "1",
+         "right": "1",
+         "bottom": "1",
+         "left": "1",
+         "isLinked": false
+        },
+        "border_radius": {
+         "unit": "px",
+         "top": "6",
+         "right": "6",
+         "bottom": "6",
+         "left": "6",
+         "isLinked": false
+        }
+       },
+       "elements": [
+        {
+         "id": "157ac49",
+         "elType": "widget",
+         "widgetType": "image",
+         "settings": {
+          "image_size": "large",
+          "align": "center",
+          "width": {
+           "unit": "%",
+           "size": 100,
+           "sizes": []
+          },
+          "height": {
+           "unit": "px",
+           "size": 300,
+           "sizes": []
+          },
+          "height_tablet": {
+           "unit": "px",
+           "size": 240,
+           "sizes": []
+          },
+          "height_mobile": {
+           "unit": "px",
+           "size": 280,
+           "sizes": []
+          },
+          "object-fit": "cover",
+          "link_to": "file",
+          "open_lightbox": "yes",
+          "caption_source": "none"
+         },
+         "elements": []
+        },
+        {
+         "id": "80f180e",
+         "elType": "widget",
+         "widgetType": "heading",
+         "settings": {
+          "title": "Featured Artwork Coming Soon",
+          "header_size": "h4",
+          "align": "center",
+          "title_color": "#5E1071",
+          "typography_typography": "custom",
+          "typography_font_family": "Cormorant Garamond",
+          "typography_font_weight": "600",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 24,
+           "sizes": []
+          },
+          "typography_font_size_tablet": {
+           "unit": "px",
+           "size": 22,
+           "sizes": []
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 22,
+           "sizes": []
+          },
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.15,
+           "sizes": []
+          }
+         },
+         "elements": []
+        },
+        {
+         "id": "d66dccb",
+         "elType": "widget",
+         "widgetType": "text-editor",
+         "settings": {
+          "editor": "",
+          "align": "center",
+          "text_color": "#3A3A3A",
+          "typography_typography": "custom",
+          "typography_font_family": "Montserrat",
+          "typography_font_weight": "400",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 15,
+           "sizes": []
+          },
+          "typography_font_size_tablet": {
+           "unit": "px",
+           "size": 15,
+           "sizes": []
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 15,
+           "sizes": []
+          },
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.7,
+           "sizes": []
+          }
+         },
+         "elements": []
+        }
+       ]
+      },
+      {
+       "id": "dcb2ac4",
+       "elType": "container",
+       "isInner": true,
+       "settings": {
+        "flex_direction": "column",
+        "flex_direction_mobile": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 14,
+         "column": "14",
+         "row": "14"
+        },
+        "flex_align_items": "stretch",
+        "flex_wrap": "nowrap",
+        "content_width": "full",
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "padding": {
+         "unit": "px",
+         "top": "16",
+         "right": "16",
+         "bottom": "24",
+         "left": "16",
+         "isLinked": false
+        },
+        "width": {
+         "unit": "%",
+         "size": 32,
+         "sizes": []
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 32,
+         "sizes": []
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        },
+        "border_border": "solid",
+        "border_color": "#D4AF37",
+        "border_width": {
+         "unit": "px",
+         "top": "1",
+         "right": "1",
+         "bottom": "1",
+         "left": "1",
+         "isLinked": false
+        },
+        "border_radius": {
+         "unit": "px",
+         "top": "6",
+         "right": "6",
+         "bottom": "6",
+         "left": "6",
+         "isLinked": false
+        }
+       },
+       "elements": [
+        {
+         "id": "dab621f",
+         "elType": "widget",
+         "widgetType": "image",
+         "settings": {
+          "image_size": "large",
+          "align": "center",
+          "width": {
+           "unit": "%",
+           "size": 100,
+           "sizes": []
+          },
+          "height": {
+           "unit": "px",
+           "size": 300,
+           "sizes": []
+          },
+          "height_tablet": {
+           "unit": "px",
+           "size": 240,
+           "sizes": []
+          },
+          "height_mobile": {
+           "unit": "px",
+           "size": 280,
+           "sizes": []
+          },
+          "object-fit": "cover",
+          "link_to": "file",
+          "open_lightbox": "yes",
+          "caption_source": "none"
+         },
+         "elements": []
+        },
+        {
+         "id": "b187e05",
+         "elType": "widget",
+         "widgetType": "heading",
+         "settings": {
+          "title": "Featured Artwork Coming Soon",
+          "header_size": "h4",
+          "align": "center",
+          "title_color": "#5E1071",
+          "typography_typography": "custom",
+          "typography_font_family": "Cormorant Garamond",
+          "typography_font_weight": "600",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 24,
+           "sizes": []
+          },
+          "typography_font_size_tablet": {
+           "unit": "px",
+           "size": 22,
+           "sizes": []
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 22,
+           "sizes": []
+          },
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.15,
+           "sizes": []
+          }
+         },
+         "elements": []
+        },
+        {
+         "id": "4ccfbf0",
+         "elType": "widget",
+         "widgetType": "text-editor",
+         "settings": {
+          "editor": "",
+          "align": "center",
+          "text_color": "#3A3A3A",
+          "typography_typography": "custom",
+          "typography_font_family": "Montserrat",
+          "typography_font_weight": "400",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 15,
+           "sizes": []
+          },
+          "typography_font_size_tablet": {
+           "unit": "px",
+           "size": 15,
+           "sizes": []
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 15,
+           "sizes": []
+          },
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.7,
+           "sizes": []
+          }
+         },
+         "elements": []
+        }
+       ]
+      },
+      {
+       "id": "26574f9",
+       "elType": "container",
+       "isInner": true,
+       "settings": {
+        "flex_direction": "column",
+        "flex_direction_mobile": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 14,
+         "column": "14",
+         "row": "14"
+        },
+        "flex_align_items": "stretch",
+        "flex_wrap": "nowrap",
+        "content_width": "full",
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "padding": {
+         "unit": "px",
+         "top": "16",
+         "right": "16",
+         "bottom": "24",
+         "left": "16",
+         "isLinked": false
+        },
+        "width": {
+         "unit": "%",
+         "size": 32,
+         "sizes": []
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 32,
+         "sizes": []
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        },
+        "border_border": "solid",
+        "border_color": "#D4AF37",
+        "border_width": {
+         "unit": "px",
+         "top": "1",
+         "right": "1",
+         "bottom": "1",
+         "left": "1",
+         "isLinked": false
+        },
+        "border_radius": {
+         "unit": "px",
+         "top": "6",
+         "right": "6",
+         "bottom": "6",
+         "left": "6",
+         "isLinked": false
+        }
+       },
+       "elements": [
+        {
+         "id": "cd9b1cf",
+         "elType": "widget",
+         "widgetType": "image",
+         "settings": {
+          "image_size": "large",
+          "align": "center",
+          "width": {
+           "unit": "%",
+           "size": 100,
+           "sizes": []
+          },
+          "height": {
+           "unit": "px",
+           "size": 300,
+           "sizes": []
+          },
+          "height_tablet": {
+           "unit": "px",
+           "size": 240,
+           "sizes": []
+          },
+          "height_mobile": {
+           "unit": "px",
+           "size": 280,
+           "sizes": []
+          },
+          "object-fit": "cover",
+          "link_to": "file",
+          "open_lightbox": "yes",
+          "caption_source": "none"
+         },
+         "elements": []
+        },
+        {
+         "id": "5f47be9",
+         "elType": "widget",
+         "widgetType": "heading",
+         "settings": {
+          "title": "Featured Artwork Coming Soon",
+          "header_size": "h4",
+          "align": "center",
+          "title_color": "#5E1071",
+          "typography_typography": "custom",
+          "typography_font_family": "Cormorant Garamond",
+          "typography_font_weight": "600",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 24,
+           "sizes": []
+          },
+          "typography_font_size_tablet": {
+           "unit": "px",
+           "size": 22,
+           "sizes": []
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 22,
+           "sizes": []
+          },
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.15,
+           "sizes": []
+          }
+         },
+         "elements": []
+        },
+        {
+         "id": "8d8f84f",
+         "elType": "widget",
+         "widgetType": "text-editor",
+         "settings": {
+          "editor": "",
+          "align": "center",
+          "text_color": "#3A3A3A",
+          "typography_typography": "custom",
+          "typography_font_family": "Montserrat",
+          "typography_font_weight": "400",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 15,
+           "sizes": []
+          },
+          "typography_font_size_tablet": {
+           "unit": "px",
+           "size": 15,
+           "sizes": []
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 15,
+           "sizes": []
+          },
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.7,
+           "sizes": []
+          }
+         },
+         "elements": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "5671861",
+   "elType": "container",
+   "isInner": false,
+   "settings": {
+    "flex_direction": "column",
+    "flex_direction_mobile": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 24,
+     "column": "24",
+     "row": "24"
+    },
+    "flex_align_items": "center",
+    "flex_wrap": "nowrap",
+    "content_width": "boxed",
+    "boxed_width": {
+     "unit": "px",
+     "size": 760,
+     "sizes": []
+    },
+    "background_background": "classic",
+    "background_color": "#5E1071",
+    "padding": {
+     "unit": "px",
+     "top": "100",
+     "right": "24",
+     "bottom": "100",
+     "left": "24",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "64",
+     "right": "20",
+     "bottom": "64",
+     "left": "20",
+     "isLinked": false
+    }
+   },
+   "elements": [
+    {
+     "id": "51b33b9",
+     "elType": "widget",
+     "widgetType": "heading",
+     "settings": {
+      "title": "YOUR MASTERPIECE COULD BE NEXT",
+      "header_size": "h2",
+      "align": "center",
+      "title_color": "#FFFFFF",
+      "typography_typography": "custom",
+      "typography_font_family": "Cormorant Garamond",
+      "typography_font_weight": "700",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 52,
+       "sizes": []
+      },
+      "typography_font_size_tablet": {
+       "unit": "px",
+       "size": 44,
+       "sizes": []
+      },
+      "typography_font_size_mobile": {
+       "unit": "px",
+       "size": 34,
+       "sizes": []
+      },
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.15,
+       "sizes": []
+      },
+      "typography_letter_spacing": {
+       "unit": "px",
+       "size": 2,
+       "sizes": []
+      },
+      "typography_letter_spacing_mobile": {
+       "unit": "px",
+       "size": 1.5,
+       "sizes": []
+      }
+     },
+     "elements": []
+    },
+    {
+     "id": "d4086f2",
+     "elType": "widget",
+     "widgetType": "text-editor",
+     "settings": {
+      "editor": "<p>Every creation tells a story. We'd love to see yours.</p>",
+      "align": "center",
+      "text_color": "#FFFFFF",
+      "typography_typography": "custom",
+      "typography_font_family": "Montserrat",
+      "typography_font_weight": "400",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 19,
+       "sizes": []
+      },
+      "typography_font_size_tablet": {
+       "unit": "px",
+       "size": 19,
+       "sizes": []
+      },
+      "typography_font_size_mobile": {
+       "unit": "px",
+       "size": 17,
+       "sizes": []
+      },
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.7,
+       "sizes": []
+      }
+     },
+     "elements": []
+    },
+    {
+     "id": "f78795f",
+     "elType": "widget",
+     "widgetType": "button",
+     "settings": {
+      "text": "SHARE YOUR ARTWORK",
+      "link": {
+       "url": "#artwork-submission",
+       "is_external": "",
+       "nofollow": "",
+       "custom_attributes": ""
+      },
+      "align": "center",
+      "align_mobile": "justify",
+      "background_color": "#D4AF37",
+      "button_text_color": "#370089",
+      "hover_color": "#370089",
+      "button_background_hover_color": "#DCCC84",
+      "border_radius": {
+       "unit": "px",
+       "top": "4",
+       "right": "4",
+       "bottom": "4",
+       "left": "4",
+       "isLinked": false
+      },
+      "text_padding": {
+       "unit": "px",
+       "top": "18",
+       "right": "40",
+       "bottom": "18",
+       "left": "40",
+       "isLinked": false
+      },
+      "text_padding_mobile": {
+       "unit": "px",
+       "top": "16",
+       "right": "20",
+       "bottom": "16",
+       "left": "20",
+       "isLinked": false
+      },
+      "typography_typography": "custom",
+      "typography_font_family": "Montserrat",
+      "typography_font_weight": "700",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 15,
+       "sizes": []
+      },
+      "typography_font_size_tablet": {
+       "unit": "px",
+       "size": 15,
+       "sizes": []
+      },
+      "typography_font_size_mobile": {
+       "unit": "px",
+       "size": 14,
+       "sizes": []
+      },
+      "typography_letter_spacing": {
+       "unit": "px",
+       "size": 2.5,
+       "sizes": []
+      },
+      "typography_letter_spacing_mobile": {
+       "unit": "px",
+       "size": 1.5,
+       "sizes": []
+      }
+     },
+     "elements": []
+    }
+   ]
+  }
+ ],
+ "page_settings": {
+  "template": "elementor_header_footer",
+  "hide_title": "yes"
+ },
+ "version": "0.4",
+ "title": "BKN Show Us Your Colors",
+ "type": "page"
+}
