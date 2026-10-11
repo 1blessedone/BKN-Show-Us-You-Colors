@@ -937,6 +937,585 @@
     }
    ]
   },
+    {
+   "id": "23322b3",
+   "elType": "container",
+   "isInner": false,
+   "settings": {
+    "_title": "SHARE YOUR CREATIVITY WITH BKN",
+    "content_width": "full",
+    "flex_direction": "column",
+    "flex_align_items": "center",
+    "padding": {
+     "unit": "px",
+     "top": "80",
+     "right": "30",
+     "bottom": "80",
+     "left": "30",
+     "isLinked": false
+    },
+    "padding_tablet": {
+     "unit": "px",
+     "top": "60",
+     "right": "25",
+     "bottom": "60",
+     "left": "25",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "45",
+     "right": "20",
+     "bottom": "45",
+     "left": "20",
+     "isLinked": false
+    },
+    "margin": {
+     "unit": "px",
+     "top": "0",
+     "right": "0",
+     "bottom": "0",
+     "left": "0",
+     "isLinked": false
+    },
+    "background_background": "classic",
+    "background_color": "#F8F4EC"
+   },
+   "elements": [
+    {
+     "id": "11ec915",
+     "elType": "container",
+     "isInner": true,
+     "settings": {
+      "_title": "Share creativity inner",
+      "content_width": "boxed",
+      "boxed_width": {
+       "unit": "px",
+       "size": 900
+      },
+      "flex_direction": "column",
+      "flex_align_items": "center",
+      "flex_gap": {
+       "unit": "px",
+       "size": 18,
+       "column": "18",
+       "row": "18"
+      },
+      "flex_gap_mobile": {
+       "unit": "px",
+       "size": 14,
+       "column": "14",
+       "row": "14"
+      },
+      "padding": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": false
+      },
+      "margin": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": false
+      }
+     },
+     "elements": [
+      {
+       "id": "8f18d11",
+       "elType": "widget",
+       "widgetType": "heading",
+       "settings": {
+        "_title": "Headline",
+        "title": "SHARE YOUR CREATIVITY WITH BKN! 🎨",
+        "header_size": "h2",
+        "align": "center",
+        "title_color": "#5E1071",
+        "typography_typography": "custom",
+        "typography_font_family": "Cormorant Garamond",
+        "typography_font_weight": "600",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 44
+        },
+        "typography_font_size_tablet": {
+         "unit": "px",
+         "size": 38
+        },
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 30
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.15
+        },
+        "typography_letter_spacing": {
+         "unit": "px",
+         "size": 1
+        },
+        "typography_letter_spacing_mobile": {
+         "unit": "px",
+         "size": 0.5
+        }
+       },
+       "elements": []
+      },
+      {
+       "id": "e4cbc51",
+       "elType": "widget",
+       "widgetType": "divider",
+       "settings": {
+        "_title": "Gold rule",
+        "style": "solid",
+        "weight": {
+         "unit": "px",
+         "size": 3
+        },
+        "color": "#D4AF37",
+        "width": {
+         "unit": "px",
+         "size": 90
+        },
+        "align": "center",
+        "gap": {
+         "unit": "px",
+         "size": 4
+        }
+       },
+       "elements": []
+      },
+      {
+       "id": "2383dc9",
+       "elType": "widget",
+       "widgetType": "text-editor",
+       "settings": {
+        "_title": "Intro line",
+        "editor": "<p>We'd love to see your BKN In Color creations!</p>",
+        "align": "center",
+        "text_color": "#333333",
+        "typography_typography": "custom",
+        "typography_font_family": "Montserrat",
+        "typography_font_weight": "400",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 17
+        },
+        "typography_font_size_tablet": {
+         "unit": "px",
+         "size": 16
+        },
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 15
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.7
+        }
+       },
+       "elements": []
+      },
+      {
+       "id": "a577012",
+       "elType": "widget",
+       "widgetType": "text-editor",
+       "settings": {
+        "_title": "Intro paragraph",
+        "editor": "<p>Join our creative community! Share your finished artwork on your favorite social media platform, tag BKN, and use <strong>#BKNInColor</strong> so we can discover and celebrate your creativity.</p>",
+        "align": "center",
+        "text_color": "#333333",
+        "typography_typography": "custom",
+        "typography_font_family": "Montserrat",
+        "typography_font_weight": "400",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 17
+        },
+        "typography_font_size_tablet": {
+         "unit": "px",
+         "size": 16
+        },
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 15
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.7
+        }
+       },
+       "elements": []
+      },
+      {
+       "id": "a6e1f5d",
+       "elType": "container",
+       "isInner": true,
+       "settings": {
+        "_title": "Social media links card",
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_align_items": "center",
+        "flex_gap": {
+         "unit": "px",
+         "size": 12,
+         "column": "12",
+         "row": "12"
+        },
+        "width": {
+         "unit": "px",
+         "size": 650
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100
+        },
+        "padding": {
+         "unit": "px",
+         "top": "35",
+         "right": "35",
+         "bottom": "35",
+         "left": "35",
+         "isLinked": false
+        },
+        "padding_tablet": {
+         "unit": "px",
+         "top": "30",
+         "right": "25",
+         "bottom": "30",
+         "left": "25",
+         "isLinked": false
+        },
+        "padding_mobile": {
+         "unit": "px",
+         "top": "25",
+         "right": "15",
+         "bottom": "25",
+         "left": "15",
+         "isLinked": false
+        },
+        "margin": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "border_border": "solid",
+        "border_width": {
+         "unit": "px",
+         "top": "1",
+         "right": "1",
+         "bottom": "1",
+         "left": "1",
+         "isLinked": false
+        },
+        "border_color": "#E8DCC8",
+        "border_radius": {
+         "unit": "px",
+         "top": "12",
+         "right": "12",
+         "bottom": "12",
+         "left": "12",
+         "isLinked": false
+        }
+       },
+       "elements": [
+        {
+         "id": "9414f35",
+         "elType": "widget",
+         "widgetType": "heading",
+         "settings": {
+          "_title": "Social heading",
+          "title": "FIND AND TAG US",
+          "header_size": "h3",
+          "align": "center",
+          "title_color": "#5E1071",
+          "typography_typography": "custom",
+          "typography_font_family": "Cormorant Garamond",
+          "typography_font_weight": "600",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 30
+          },
+          "typography_font_size_tablet": {
+           "unit": "px",
+           "size": 27
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 25
+          },
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.15
+          }
+         },
+         "elements": []
+        },
+        {
+         "id": "77c4411",
+         "elType": "widget",
+         "widgetType": "text-editor",
+         "settings": {
+          "_title": "Instagram link",
+          "editor": "<p><strong>Instagram:</strong> <a style=\"color: #5E1071;\" href=\"https://www.instagram.com/bknetwork_official/\" target=\"_blank\" rel=\"noopener\">@bknetwork_official</a></p>",
+          "align": "center",
+          "text_color": "#333333",
+          "typography_typography": "custom",
+          "typography_font_family": "Montserrat",
+          "typography_font_weight": "400",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_size_tablet": {
+           "unit": "px",
+           "size": 15
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 14
+          },
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.7
+          }
+         },
+         "elements": []
+        },
+        {
+         "id": "33752d1",
+         "elType": "widget",
+         "widgetType": "text-editor",
+         "settings": {
+          "_title": "YouTube link",
+          "editor": "<p><strong>YouTube:</strong> <a style=\"color: #5E1071;\" href=\"https://www.youtube.com/@Official_BKNetwork\" target=\"_blank\" rel=\"noopener\">@Official_BKNetwork</a></p>",
+          "align": "center",
+          "text_color": "#333333",
+          "typography_typography": "custom",
+          "typography_font_family": "Montserrat",
+          "typography_font_weight": "400",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_size_tablet": {
+           "unit": "px",
+           "size": 15
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 14
+          },
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.7
+          }
+         },
+         "elements": []
+        },
+        {
+         "id": "b0d468a",
+         "elType": "widget",
+         "widgetType": "text-editor",
+         "settings": {
+          "_title": "TikTok link",
+          "editor": "<p><strong>TikTok:</strong> <a style=\"color: #5E1071;\" href=\"https://www.tiktok.com/@bknetwork_official\" target=\"_blank\" rel=\"noopener\">@bknetwork_official</a></p>",
+          "align": "center",
+          "text_color": "#333333",
+          "typography_typography": "custom",
+          "typography_font_family": "Montserrat",
+          "typography_font_weight": "400",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_size_tablet": {
+           "unit": "px",
+           "size": 15
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 14
+          },
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.7
+          }
+         },
+         "elements": []
+        },
+        {
+         "id": "81e8de4",
+         "elType": "widget",
+         "widgetType": "text-editor",
+         "settings": {
+          "_title": "X (Twitter) link",
+          "editor": "<p><strong>X (Twitter):</strong> <a style=\"color: #5E1071;\" href=\"https://x.com/BenisonKingdom\" target=\"_blank\" rel=\"noopener\">@BenisonKingdom</a></p>",
+          "align": "center",
+          "text_color": "#333333",
+          "typography_typography": "custom",
+          "typography_font_family": "Montserrat",
+          "typography_font_weight": "400",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_size_tablet": {
+           "unit": "px",
+           "size": 15
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 14
+          },
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.7
+          }
+         },
+         "elements": []
+        },
+        {
+         "id": "02cc9cb",
+         "elType": "widget",
+         "widgetType": "text-editor",
+         "settings": {
+          "_title": "Facebook link",
+          "editor": "<p><strong>Facebook:</strong> <a style=\"color: #5E1071;\" href=\"https://www.facebook.com/benisonkingdomnetwork\" target=\"_blank\" rel=\"noopener\">Benison Kingdom Network</a></p>",
+          "align": "center",
+          "text_color": "#333333",
+          "typography_typography": "custom",
+          "typography_font_family": "Montserrat",
+          "typography_font_weight": "400",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_size_tablet": {
+           "unit": "px",
+           "size": 15
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 14
+          },
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.7
+          }
+         },
+         "elements": []
+        }
+       ]
+      },
+      {
+       "id": "bc2909d",
+       "elType": "widget",
+       "widgetType": "text-editor",
+       "settings": {
+        "_title": "Gallery paragraph",
+        "editor": "<p>Want another opportunity to showcase your masterpiece? Submit your artwork through our <strong>Show Your Work Gallery</strong> for consideration.</p>",
+        "align": "center",
+        "text_color": "#333333",
+        "typography_typography": "custom",
+        "typography_font_family": "Montserrat",
+        "typography_font_weight": "400",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 17
+        },
+        "typography_font_size_tablet": {
+         "unit": "px",
+         "size": 16
+        },
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 15
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.7
+        }
+       },
+       "elements": []
+      },
+      {
+       "id": "02fb614",
+       "elType": "widget",
+       "widgetType": "text-editor",
+       "settings": {
+        "_title": "Disclaimer",
+        "editor": "<p><strong>Please note:</strong> Artwork featured on BKN's website or social media is selected at BKN's discretion. Tagging, following, or submitting artwork does not guarantee a feature.</p><p>Parents or legal guardians should handle social media sharing on behalf of children.</p>",
+        "align": "center",
+        "text_color": "#666666",
+        "typography_typography": "custom",
+        "typography_font_family": "Montserrat",
+        "typography_font_weight": "400",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 13
+        },
+        "typography_font_size_tablet": {
+         "unit": "px",
+         "size": 13
+        },
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 12
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.6
+        }
+       },
+       "elements": []
+      },
+      {
+       "id": "cd353f6",
+       "elType": "widget",
+       "widgetType": "heading",
+       "settings": {
+        "_title": "Closing statement",
+        "title": "Your creativity deserves to be seen! 💜",
+        "header_size": "p",
+        "align": "center",
+        "title_color": "#5E1071",
+        "typography_typography": "custom",
+        "typography_font_family": "Cormorant Garamond",
+        "typography_font_weight": "600",
+        "typography_font_style": "italic",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 29
+        },
+        "typography_font_size_tablet": {
+         "unit": "px",
+         "size": 26
+        },
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 24
+        },
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.15
+        }
+       },
+       "elements": []
+      }
+     ]
+    }
+   ]
+  },
   {
    "id": "1fb17c2",
    "elType": "container",
